@@ -5,6 +5,8 @@ A bunch of links to blog posts, articles, videos, etc for learning AngularJS. Th
 
 ## Workshop
 * https://github.com/kozmic/angularjs-workshop
+
+## Plugin
 * http://blog.nraboy.com/2014/08/send-email-android-ios-ionicframework/ -> Send a mail from nativ Application
 
 ## Books
